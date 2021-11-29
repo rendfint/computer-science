@@ -4,7 +4,7 @@
 
 import re
 
-name = input("Enter file name: ")
+name = input("Enter filename: ")
 if len(name) < 1 : name = "regex_sum_42.txt"
 
 try :
