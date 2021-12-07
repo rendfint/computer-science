@@ -23,15 +23,18 @@ print("Creating new tables.")
 cur.executescript("""
     CREATE TABLE User (
         id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
-        name TEXT UNIQUE);
+        name TEXT UNIQUE
+        );
     CREATE TABLE Course (
         id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
-        title TEXT UNIQUE);
+        title TEXT UNIQUE
+        );
     CREATE TABLE Member (
-        id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
         user_id INTEGER,
         course_id INTEGER,
-        role INTEGER);
+        role INTEGER,
+        PRIMARY KEY (user_id, course_id)
+        );
     """)
 print("Tables successfully created.\n")
 
