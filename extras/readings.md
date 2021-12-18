@@ -31,12 +31,12 @@ Name | Author(s)
 Name | Author(s)
 :-- | :--:
 [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) | Silvanus P. Thompson
-[Ximera](https://ximera.osu.edu/): Interactive Calculus Textbooks | [Ximera team](https://ximera.osu.edu/about/team)
+[Ximera: Interactive Calculus Textbooks](https://ximera.osu.edu/) | [Ximera team](https://ximera.osu.edu/about/team)
 [Discrete Mathematics with Applications (4th Edition)](http://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328/) | Susanna S. Epp
 [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi/) | Oscar Levin
 [Applied Discrete Structures](http://faculty.uml.edu/klevasseur/ads2/) | Alan Doerr, Ken Levasseur
 [Grinstead and Snell’s Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) | Charles M. Grinstead, J. Laurie Snell
-[Introduction to Linear Algebra (5th Edition)](https://math.mit.edu/~gs/linearalgebra/) | Gilbert Strang
+[Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/) | Gilbert Strang
 [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Kenji Hiranabe, Gilbert Strang
 
 ## Systems
@@ -88,3 +88,10 @@ Name | Author(s)
 [Compiler Construction](https://inf.ethz.ch/personal/wirth/CompilerConstruction/index.html) | Niklaus Wirth 
 [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) | Fred Brooks, Jr.
 [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/) | Matt Pharr, Wenzel Jakob, and Greg Humphreys
+
+
+## Tools
+
+Name | Author(s)
+:-- | :--:
+[The Linux Command Line](https://linuxcommand.org/tlcl.php) | by William Shotts
